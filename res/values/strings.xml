@@ -23,25 +23,24 @@
     <string name="devs">The Crew</string>
     <string name="aokp">Infamous Open Kang Project</string>
     <string name="aokp_website_title">IOKP Website</string>
-    <string name="aokp_website_summary">www.infamousdevelopment.com</string>
-    <string name="aokp_review_title">AOKP Code Review - Gerrit</string>
-    <string name="aokp_review_summary">View AOKP\'s Gerrit instance</string>
-    <string name="aokp_irc_title">Downloads</string>
-    <string name="aokp_irc_summary">Androidfilehost.com official server of IOKP</string>
+    <string name="aokp_website_summary">Where we call home.</string>
+    <string name="aokp_review_title">Downloads</string>
+    <string name="aokp_review_summary">Androidfilehost.com official server of IOKP</string>
+    <string name="aokp_irc_title">Github.com/IOKP-kitkat</string>
+    <string name="aokp_irc_summary">Our public repo. Check it for latest changes.</string>
     <string name="about_aokp">About IOKP</string>
     <string name="about_aokp_summary">@null</string>
-    <string name="donate_aokp">goo.gl/V01Vqx
-    </string>
-    <string name="github_aokp">https://github.com/IOKP-kitkat</string>
+    <string name="donate_iokp">goo.gl/V01Vqx</string>
+    <string name="github_iokp">https://github.com/IOKP-kitkat</string>
     <string name="github_midnightRider67">https://github.com/MidnightRider67</string>
     <string name="github_djmatt604">https://github.com/djmatt604</string>
     <string name="github_octane70">https://github.com/Octane70</string>
     <string name="github_mgbotoe">https://github.com/mgbotoe</string>
     <string name="github_jamison904">https://github.com/jamison904</string>
     <string name="github_mrimp">https://github.com/mrimp</string>
-    <string name="url_aokp">www.infamousdevelopment.com</string>
-    <string name="url_aokp_gerrit">https://github.com/IOKP-kitkat</string>
-    <string name="url_aokp_irc">goo.gl/6UENPD</string>
+    <string name="url_aokp">https://www.infamousdevelopment.com</string>
+    <string name="url_aokp_gerrit">goo.gl/6UENPD</string>
+    <string name="url_aokp_irc">https://github.com/IOKP-kitkat</string>
     <string name="android_open_kang_project">Infamous Open Kang Project</string>
     <string name="kanglings">The Infamous</string>
 
