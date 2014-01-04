@@ -30,7 +30,7 @@
     <string name="aokp_irc_summary">Our public repo. Check it for latest changes.</string>
     <string name="about_aokp">About IOKP</string>
     <string name="about_aokp_summary">@null</string>
-    <string name="donate_iokp">goo.gl/V01Vqx</string>
+    <string name="donate_iokp">http://goo.gl/V01Vqx</string>
     <string name="github_iokp">https://github.com/IOKP-kitkat</string>
     <string name="github_midnightRider67">https://github.com/MidnightRider67</string>
     <string name="github_djmatt604">https://github.com/djmatt604</string>
@@ -38,8 +38,8 @@
     <string name="github_mgbotoe">https://github.com/mgbotoe</string>
     <string name="github_jamison904">https://github.com/jamison904</string>
     <string name="github_mrimp">https://github.com/mrimp</string>
-    <string name="url_aokp">https://www.infamousdevelopment.com</string>
-    <string name="url_aokp_gerrit">goo.gl/6UENPD</string>
+    <string name="url_aokp">http://www.infamousdevelopment.com</string>
+    <string name="url_aokp_gerrit">http://goo.gl/6UENPD</string>
     <string name="url_aokp_irc">https://github.com/IOKP-kitkat</string>
     <string name="android_open_kang_project">Infamous Open Kang Project</string>
     <string name="kanglings">The Infamous</string>
