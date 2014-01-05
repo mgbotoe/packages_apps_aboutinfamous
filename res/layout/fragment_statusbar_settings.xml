@@ -1,12 +1,9 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
 
     <LinearLayout style="@style/settingsFragmentStyle">
-
-        <com.aokp.romcontrol.widgets.CategorySeparator
-                style="@style/defaultSize"
-                android:title="@string/category_statusbar_notification"/>
 
         <com.aokp.romcontrol.settings.CheckboxSetting
                 android:layout_width="match_parent"
@@ -17,6 +14,10 @@
                 android:key="statusbar_enable_brightness_slider"
                 android:defaultValue="true"
                 />
+
+        <com.aokp.romcontrol.widgets.CategorySeparator
+                style="@style/defaultSize"
+                android:title="@string/category_statusbar_notification"/>
 
         <com.aokp.romcontrol.settings.CheckboxSetting
                 android:layout_width="match_parent"
