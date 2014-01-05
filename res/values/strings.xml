@@ -91,10 +91,6 @@
     <string name="title_hardware_keys_camera">Camera</string>
     <string name="title_setting_enable_custom_hardware_keys">Customize hardware keys</string>
 
-    <string name="category_advanced">Advanced</string>
-    <string name="title_hardware_keys_volume_keys_double_tap">Volume Smash Rotation</string>
-    <string name="summary_hardware_keys_volume_keys_double_tap">Whether double tapping the volume keys will lock and unlock the auto-rotate setting</string>
-
     <!-- Statusbar Notifications -->
     <string name="category_statusbar_notification">Notifications</string>
     <string name="category_statusbar_battery">Battery</string>
