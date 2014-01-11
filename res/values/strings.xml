@@ -22,17 +22,17 @@
 
     <!-- About -->
     <string name="devs">The Crew</string>
-    <string name="aokp">Infamous Open Kang Project</string>
-    <string name="aokp_website_title">IOKP Website</string>
+    <string name="aokp">Infamous Open Android Project</string>
+    <string name="aokp_website_title">IOAP Website</string>
     <string name="aokp_website_summary">Where we call home.</string>
     <string name="aokp_review_title">Downloads</string>
-    <string name="aokp_review_summary">Androidfilehost.com official server of IOKP</string>
-    <string name="aokp_irc_title">Github.com/IOKP-kitkat</string>
+    <string name="aokp_review_summary">Androidfilehost.com official server of IOAP</string>
+    <string name="aokp_irc_title">Github.com/IOAP</string>
     <string name="aokp_irc_summary">Our public repo. Check it for latest changes.</string>
-    <string name="about_aokp">About IOKP</string>
+    <string name="about_aokp">About IOAP</string>
     <string name="about_aokp_summary">@null</string>
     <string name="donate_iokp">http://goo.gl/V01Vqx</string>
-    <string name="github_iokp">https://github.com/IOKP-kitkat</string>
+    <string name="github_iokp">https://github.com/IOAP</string>
     <string name="github_midnightRider67">https://github.com/MidnightRider67</string>
     <string name="github_djmatt604">https://github.com/djmatt604</string>
     <string name="github_octane70">https://github.com/Octane70</string>
@@ -46,7 +46,7 @@
     <string name="kanglings">The Infamous</string>
 
     <!-- dynamic changelog -->
-    <string name="mgerrit_changelog_title">Github.com/IOKP-kitkat</string>
+    <string name="mgerrit_changelog_title">Github.com/IOAP</string>
     <string name="mgerrit_changelog_summary">Our public repo. Check it for latest changes.</string>
 
     <!-- Color Picker -->
