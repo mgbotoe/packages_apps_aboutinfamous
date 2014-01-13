@@ -69,6 +69,17 @@
                 android:layout_height="wrap_content"
                 />
 
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="nolinuxnoparty"
+                aokp:nameDev="nolinuxnoparty"
+                aokp:twitterHandle="nolinuxnoparty"
+                aokp:githubLink="@string/github_nolinuxnoparty"
+                aokp:emailDev="nolinuxnoparty@gmail.com"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
         
     </LinearLayout>
 </ScrollView>
