@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ROM Control</string>
-    <string name="rom_control">ROM Control</string>
+    <string name="app_name">About IOAP</string>
+    <string name="rom_control">About IOAP</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
@@ -22,8 +22,8 @@
 
     <!-- About -->
     <string name="devs">The Crew</string>
-    <string name="aokp">Infamous Open Android Project</string>
-    <string name="aokp_website_title">IOAP Website</string>
+    <string name="aokp">IOKP/IOAP</string>
+    <string name="aokp_website_title">Infamous Development</string>
     <string name="aokp_website_summary">Where we call home.</string>
     <string name="aokp_review_title">Downloads</string>
     <string name="aokp_review_summary">Androidfilehost.com official server of IOAP</string>

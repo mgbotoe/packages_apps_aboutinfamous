@@ -10,7 +10,9 @@ import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
 import android.view.MenuItem;
+import com.aokp.romcontrol.fragments.GeneralSettingsFragment;
 import com.aokp.romcontrol.fragments.about.AboutTabHostFragment;
+import com.aokp.romcontrol.fragments.NavigationDrawerFragment;
 
 
 public class MainActivity extends Activity
