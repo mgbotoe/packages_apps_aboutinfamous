@@ -9,11 +9,11 @@
             style="@style/settingsFragmentStyle">
 
         <com.aokp.romcontrol.widgets.DeveloperPreference
-                aokp:nameDev="IOKP"
-                aokp:twitterHandle="IOKP_ROM"
+                aokp:nameDev="Minions"
+                aokp:twitterHandle="Mgbotoe"
                 aokp:githubLink="@string/github_iokp"
                 aokp:donateLink="@string/donate_iokp"
-                aokp:emailDev="infamousrom@gmail.com"
+                aokp:emailDev="mgbotoe@gmail.com"
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>

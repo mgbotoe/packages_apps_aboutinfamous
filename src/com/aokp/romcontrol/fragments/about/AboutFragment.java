@@ -18,7 +18,7 @@ public class AboutFragment extends Fragment {
     private static final String MGERRIT = "com.jbirdvegas.mgerrit";
     private static final String MGERRIT_MAIN_ENTRY = ".GerritControllerActivity";
     private static final String MGERRIT_AOKP_CHANGELOG = ".AOKPChangelog";
-    private static final String MGERRIT_PLAYSTORE = "http://goo.gl/VrsA4Q";
+    private static final String MGERRIT_PLAYSTORE = "http://goo.gl/ioxEcK";
 
     public AboutFragment() {
         // empty fragment constructor

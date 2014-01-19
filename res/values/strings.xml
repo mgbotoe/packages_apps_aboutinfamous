@@ -22,17 +22,17 @@
 
     <!-- About -->
     <string name="devs">The Crew</string>
-    <string name="aokp">IOAP</string>
-    <string name="aokp_website_title">Infamous Development</string>
-    <string name="aokp_website_summary">Where we call home.</string>
+    <string name="aokp">Minions</string>
+    <string name="aokp_website_title">The Little Minions</string>
+    <string name="aokp_website_summary">Minions true home</string>
     <string name="aokp_review_title">Downloads</string>
-    <string name="aokp_review_summary">Androidfilehost.com official server of Infamous</string>
-    <string name="aokp_irc_title">Github.com/IOAP</string>
-    <string name="aokp_irc_summary">Our public repo. Check it for latest changes.</string>
-    <string name="about_aokp">About Infamous</string>
+    <string name="aokp_review_summary">Androidfilehost.com official server of the Minions</string>
+    <string name="aokp_irc_title">Github.com/Mgbotoe</string>
+    <string name="aokp_irc_summary">My office</string>
+    <string name="about_aokp">About Minions</string>
     <string name="about_aokp_summary">@null</string>
-    <string name="donate_iokp">http://goo.gl/V01Vqx</string>
-    <string name="github_iokp">https://github.com/IOAP</string>
+    <string name="donate_iokp">http://goo.gl/K89ONs</string>
+    <string name="github_iokp">https://github.com/Mgbotoe</string>
     <string name="github_midnightRider67">https://github.com/MidnightRider67</string>
     <string name="github_djmatt604">https://github.com/djmatt604</string>
     <string name="github_octane70">https://github.com/Octane70</string>
@@ -47,8 +47,8 @@
     <string name="kanglings">The Infamous</string>
 
     <!-- dynamic changelog -->
-    <string name="mgerrit_changelog_title">Infamous Development G+</string>
-    <string name="mgerrit_changelog_summary">Our public Google plus page. Check it for latest changes.</string>
+    <string name="mgerrit_changelog_title">XDA-Thread</string>
+    <string name="mgerrit_changelog_summary">Link to my thread on XDA</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
